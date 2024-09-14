@@ -88,7 +88,11 @@ You can customize the script to work with different websites by:
 
 ## Contributing
 
-Feel free to fork this repository, make your changes, and submit a pull request. Any contributions to improve this auto-login bot are welcome!
+Feel free to fork this repository, make your changes, and submit a pull request. Any contributions to improve t
+
+https://github.com/user-attachments/assets/488ed892-3392-47e9-87a9-bfdee7e9cde1
+
+his auto-login bot are welcome!
 
 ## License
 
